@@ -1,10 +1,4 @@
-### Sup 👋
-Name: Charles Cheng \
-University: University of Pennsylvania '24 \
-Major: NETS (Computer Science) \
-Interested in tech, sports and much more!
-
-Contact me by email: chacheng@seas.upenn.edu
+### Hi 👋
 
 <!--
 **chacheng21/chacheng21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
